@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+Debug
+Release
+3DBPP_CalculateBottomSupport/SuportTestData
+3DBPP_CalculateBottomSupport/Debug
+3DBPP_CalculateBottomSupport/Release
